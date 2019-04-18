@@ -43,6 +43,7 @@ brew install gmp
 brew install grep
 brew install node
 brew install php
+brew install composer
 
 # Install font tools.
 brew tap bramstein/webfonttools
@@ -103,36 +104,42 @@ brew tap caskroom/cask
 ## Apps I use
 brew cask install 1password
 brew cask install alfred
+brew cask install authy
 brew cask install beamer
 brew cask install dash
+brew cask install discord
 brew cask install dropbox
 brew cask install firefox # Firefox
 brew cask install homebrew/cask-versions/firefox-nightly # Nightly
 brew cask install google-chrome #Chrome
 brew cask install homebrew/cask-versions/google-chrome-canary # Chrome Canary
+brew cask install fork
 brew cask install grammarly
 brew cask install iterm2
 brew cask install kap
-brew cask install marked
-brew cask install messenger
+#brew cask install marked
+#brew cask install messenger
 brew cask install mongodb-compass
-brew cask install moom
+#brew cask install moom
 brew cask install mplayerx
 brew cask install notion
-brew cask install obs
+#brew cask install obs
 brew cask install odrive
 brew cask install postman
+brew cask install sequel-pro
 brew cask install sketch
 brew cask install skitch
-brew cask install skype
+#brew cask install skype
 brew cask install slack
-brew cask install spotify
+#brew cask install spotify
 brew cask install telegram
 brew cask install textexpander
-brew cask install tower
+brew cask install the-unarchiver
+#brew cask install tower
+brew cask install typora
 brew cask install visual-studio-code
-brew cask install wechat
-brew cask install whatsapp
+#brew cask install wechat
+#brew cask install whatsapp
 
 # Some binaries
 brew cask install gpg-suite # Useful for automatic GPG Signing
